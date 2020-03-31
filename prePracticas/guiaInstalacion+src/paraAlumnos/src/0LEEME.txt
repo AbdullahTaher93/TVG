@@ -1,0 +1,11 @@
+./openGL/ contiene ejemplos básicos de openGL+GLUT para comprobar que los includes y librerías
+están correctamente instalados y accesibles en el sistema.
+
+./vtk contiene el ejemplo rendering que podéis encontrar en el directorio de instalación de Vtk.
+
+./itk+vtk contiene lo siguiente:
+* WidthHeight/ contiene un programa simple que utiliza solamente Itk.
+
+* QuickViewDemo/ contiene un programa que permite utilizar visualización de Vtk para mostrar imágenes Itk. Es muy útil porque lo usaremos para evitar tener que usar un programa de visualización de imágenes externo a la hora de ver los resultados de los algoritmos que usaremos en Itk. La estructura del CMakeLists.txt que contiene será la que usaremos para casi todo.
+
+* test-itk+vtk/ contiene un programa que hace uso de elementos tanto de Itk como de Vtk. Esta estructura muestra el cauce de trabajo normal para visualización: procesado de imagen y después visualización e interacción.
