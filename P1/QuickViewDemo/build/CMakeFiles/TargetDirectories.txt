@@ -1,0 +1,3 @@
+/home/abdullah/Documents/TVG/P1/QuickViewDemo/build/CMakeFiles/rebuild_cache.dir
+/home/abdullah/Documents/TVG/P1/QuickViewDemo/build/CMakeFiles/QuickViewDemo.dir
+/home/abdullah/Documents/TVG/P1/QuickViewDemo/build/CMakeFiles/edit_cache.dir
