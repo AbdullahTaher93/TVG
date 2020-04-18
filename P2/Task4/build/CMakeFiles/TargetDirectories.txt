@@ -1,0 +1,3 @@
+/home/abdullah/Documents/TVG/P2/Task4/build/CMakeFiles/rebuild_cache.dir
+/home/abdullah/Documents/TVG/P2/Task4/build/CMakeFiles/EdgePreservingSmoothing.dir
+/home/abdullah/Documents/TVG/P2/Task4/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/abdullah/Documents/TVG/P2/Task1/build/CMakeFiles/rebuild_cache.dir
+/home/abdullah/Documents/TVG/P2/Task1/build/CMakeFiles/CastingImageFilters.dir
+/home/abdullah/Documents/TVG/P2/Task1/build/CMakeFiles/edit_cache.dir
